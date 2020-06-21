@@ -25,6 +25,13 @@ COVID Analysis with Latent Dirichlet Allocation and Visualization
  ('로이터 통신', 766),
  ('현지 시간', 759)]
 
+# Visualization
+![Web_analysis](https://user-images.githubusercontent.com/59387983/85222867-55723c80-b3f9-11ea-902f-f4da521cea12.PNG)
+
+http://gefrorenemango.dothome.co.kr/LDA_Visualization_covid.html#topic=0&lambda=1&term=
+
+
+
 # 10 Clusters and Representative Newses
 주제 1: [('시험', 339.74), ('지나', 295.53), ('여파', 267.17), ('코로나 여파', 246.8), ('사태', 236.36), ('서울', 232.25), ('따르', 218.66), ('코로나 사태', 208.0), ('확산', 207.25), ('학교', 200.01), ('예정', 194.33), ('열리', 190.34), ('중국', 186.29), ('신규', 180.85), ('실시', 179.26), ('신종', 175.75), ('사실', 170.92), ('채용', 164.01)]
 [주제 1의 대표 리뷰 :0.9998235640070575]
@@ -83,6 +90,3 @@ https://cleancode-ws.tistory.com/97
 https://wikidocs.net/30708
 
 https://saintbeller96.tistory.com/8?category=751441
-
-# Visualization
-http://gefrorenemango.dothome.co.kr/LDA_Visualization_covid.html#topic=0&lambda=1&term=
