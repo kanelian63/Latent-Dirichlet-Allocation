@@ -85,4 +85,4 @@ https://wikidocs.net/30708
 https://saintbeller96.tistory.com/8?category=751441
 
 # Visualization
-https://gefrorenemango.dothome.co.kr/html/LDA_Visualization_covid.html
+http://gefrorenemango.dothome.co.kr/LDA_Visualization_covid.html#topic=0&lambda=1&term=
