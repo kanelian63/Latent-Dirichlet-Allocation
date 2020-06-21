@@ -77,8 +77,9 @@ COVID Analysis with Latent Dirichlet Allocation
 
 
 # Install Mecab in Windows
-https://saintbeller96.tistory.com/8?category=751441
+https://cleancode-ws.tistory.com/97
 
 # References
-https://cleancode-ws.tistory.com/97
 https://wikidocs.net/30708
+
+https://saintbeller96.tistory.com/8?category=751441
