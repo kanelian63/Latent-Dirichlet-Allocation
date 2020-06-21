@@ -1,4 +1,4 @@
-# Latent-Dirichlet-Allocation
+# Latent-Dirichlet-Allocation with Mecab
 Topic modeling is the process of finding a topic in a collection of documents. It is used where it is important to find out the subject of the document, such as a search engine or customer complaint system. Latent Dirichlet Allocation (LDA) is a representative algorithm for topic modeling. It is called LDA for short.
 
 LDA assumes that documents consist of a mix of topics, and topics generate words based on probability distributions. Given the data, the LDA traces back to the document's creation process.
