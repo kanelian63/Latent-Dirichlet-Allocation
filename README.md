@@ -25,10 +25,12 @@ COVID Analysis with Latent Dirichlet Allocation and Visualization
  ('로이터 통신', 766),
  ('현지 시간', 759)]
 
-# Visualization
+# Visualization & Analysis
 ![Web_analysis](https://user-images.githubusercontent.com/59387983/85222867-55723c80-b3f9-11ea-902f-f4da521cea12.PNG)
 
-link : http://gefrorenemango.dothome.co.kr/LDA_Visualization_covid.html#topic=0&lambda=1&term=
+You can handle Analysis-Tool in below Homepage
+
+http://gefrorenemango.dothome.co.kr/LDA_Visualization_covid.html#topic=0&lambda=1&term=
 
 
 
