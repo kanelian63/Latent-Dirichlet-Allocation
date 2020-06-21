@@ -5,7 +5,7 @@ LDA assumes that documents consist of a mix of topics, and topics generate words
 
 
 # Object
-COVID Analysis with Latent Dirichlet Allocation
+COVID Analysis with Latent Dirichlet Allocation and Visualization
 
 # Sources
 10000 Naver News about COVID-19
