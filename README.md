@@ -7,7 +7,7 @@ COVID Analysis with Latent Dirichlet Allocation
 # Hot Keywords
 ![Figure 2020-06-21 080154](https://user-images.githubusercontent.com/59387983/85222198-463cc000-b3f4-11ea-91de-321f31fac4f3.png)
 
-# Ranking
+# Number of duplicate words
 [('코로나 바이러스', 6098),
  ('신종 코로나', 5048),
  ('바이러스 코로나', 4966),
