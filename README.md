@@ -1,4 +1,7 @@
 # Latent-Dirichlet-Allocation
+Topic modeling is the process of finding a topic in a collection of documents. It is used where it is important to find out the subject of the document, such as a search engine or customer complaint system. Latent Dirichlet Allocation (LDA) is a representative algorithm for topic modeling. It is called LDA for short.
+
+LDA assumes that documents consist of a mix of topics, and topics generate words based on probability distributions. Given the data, the LDA traces back to the document's creation process.
 
 https://wikidocs.net/30708
 
@@ -8,8 +11,8 @@ COVID Analysis with Latent Dirichlet Allocation
 # Sources
 10000 Naver News about COVID-19
 
-# Hot Keywords
-![Figure 2020-06-21 080154](https://user-images.githubusercontent.com/59387983/85222198-463cc000-b3f4-11ea-91de-321f31fac4f3.png)
+# 10 Hot Keywords
+![Figure 2020-06-21 080154](https://user-images.githubusercontent.com/59387983/85222441-f4953500-b3f5-11ea-86dc-7b43bec0fd3d.png)
 
 # Number of duplicate words
 [('코로나 바이러스', 6098),
@@ -21,19 +24,9 @@ COVID Analysis with Latent Dirichlet Allocation
  ('여성 코로나', 947),
  ('방지 위하', 800),
  ('로이터 통신', 766),
- ('현지 시간', 759),
- ('코로나 여파', 752),
- ('확산 방지', 701),
- ('신규 확진', 688),
- ('확진 발생', 649),
- ('포스트 코로나', 634),
- ('바이러스 감염', 603),
- ('양성 판정', 603),
- ('코로나 검사', 601),
- ('직원 코로나', 583),
- ('감염 따르', 579)]
+ ('현지 시간', 759)]
 
-# 10 Topics and Representative Newses
+# 10 Clusters and Representative Newses
 주제 1: [('시험', 339.74), ('지나', 295.53), ('여파', 267.17), ('코로나 여파', 246.8), ('사태', 236.36), ('서울', 232.25), ('따르', 218.66), ('코로나 사태', 208.0), ('확산', 207.25), ('학교', 200.01), ('예정', 194.33), ('열리', 190.34), ('중국', 186.29), ('신규', 180.85), ('실시', 179.26), ('신종', 175.75), ('사실', 170.92), ('채용', 164.01)]
 [주제 1의 대표 리뷰 :0.9998235640070575]
 코로나19에 따른 학교 개학 연기, 식당 침체 등으로 판로확보에 어려움을 겪고 있는 농가를 돕기 위해 추진... 착한소비 운동은 코로나19에 따른 개학 연기로 납품 길이 막힌 학교 급식용 친환경 딸기재배 농가를 돕기...
@@ -84,10 +77,8 @@ COVID Analysis with Latent Dirichlet Allocation
 21일 인천 서구 청라에 위치한 베어즈베스트 청라골프클럽(파72ㅣ6,929야드)에서 '기아자동차 한국여자오픈 골프선수권대회'(총상금 10억 원ㅣ우승상금 2억 5천만 원) 최종라운드가 열렸다. 최예림(21.하이트진로)이...
 
 
-
-
-
-
-https://cleancode-ws.tistory.com/97
-
+# Install Mecab in Windows
 https://saintbeller96.tistory.com/8?category=751441
+
+# References
+https://cleancode-ws.tistory.com/97
