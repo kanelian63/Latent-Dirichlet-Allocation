@@ -10,10 +10,9 @@ COVID Analysis with Latent Dirichlet Allocation and Visualization
 # Sources
 10000 Naver News about COVID-19
 
-# 10 Hot Keywords
+# Number of duplicate words
 ![Figure 2020-06-21 080154](https://user-images.githubusercontent.com/59387983/85222441-f4953500-b3f5-11ea-86dc-7b43bec0fd3d.png)
 
-# Number of duplicate words
 [('코로나 바이러스', 6098),
  ('신종 코로나', 5048),
  ('바이러스 코로나', 4966),
