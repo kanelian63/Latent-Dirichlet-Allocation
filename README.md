@@ -3,7 +3,6 @@ Topic modeling is the process of finding a topic in a collection of documents. I
 
 LDA assumes that documents consist of a mix of topics, and topics generate words based on probability distributions. Given the data, the LDA traces back to the document's creation process.
 
-https://wikidocs.net/30708
 
 # Object
 COVID Analysis with Latent Dirichlet Allocation
@@ -82,3 +81,4 @@ https://saintbeller96.tistory.com/8?category=751441
 
 # References
 https://cleancode-ws.tistory.com/97
+https://wikidocs.net/30708
